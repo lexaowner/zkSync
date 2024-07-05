@@ -1,0 +1,8 @@
+# Игнорировать все файлы
+*.txt
+private_key.txt
+.vscode
+.env
+
+# За исключением
+!requirements.txt
